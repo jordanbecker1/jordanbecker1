@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jordanbecker1
 
--I am in my final year of college at American University
+-I am a recent graduate from American University with a Bachelor of Science in Computer Science
 
 - Experience with Python, SQL, Java, C, and Assembly Language through high-level lessons taught at American University.
 
